@@ -3,5 +3,7 @@
 	$firstname = "Diona";
 
 
+	echo $firstname;
+	
 
 ?>
