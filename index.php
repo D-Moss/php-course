@@ -3,7 +3,7 @@
 	$firstname = "Diona";
 
 
-	echo $firstname;
-	
+	echo "Hello my name is: $firstname";
+
 
 ?>
