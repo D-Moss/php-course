@@ -1,9 +1,10 @@
 <?php
 
-	$firstname = "Diona";
+	$number1 = 1;
+	$number2 = 4;
 
-
-	echo "Hello my name is: $firstname";
+	echo $number1 + $number2;
+		
 
 
 ?>
